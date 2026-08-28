@@ -1,4 +1,4 @@
-# ERP-Security-Architecture-Case-Study
+# ERP Security Architecture Case Study
 
 # Cloud ERP Security Architecture & Risk Assessment
 
